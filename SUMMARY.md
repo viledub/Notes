@@ -8,3 +8,7 @@
 ## NX
 
 * [Containerizing a Nest app in Nx](nx/containerizing-a-nest-app-in-nx.md)
+
+***
+
+* [Installing Obsidian and Dropbox on WSL](installing-obsidian-and-dropbox-on-wsl.md)
